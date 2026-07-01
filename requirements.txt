@@ -1,6 +1,0 @@
-aiogram==3.22.0
-aiohttp
-beautifulsoup4
-requests
-python-dotenv
-pydantic-settings
